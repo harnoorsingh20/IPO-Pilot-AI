@@ -2,7 +2,7 @@
 
 > AI-powered platform to simplify SME IPO Offer Document preparation through intelligent document processing, regulatory guidance, and human-in-the-loop review.
 
-![Status](https://img.shields.io/badge/Status-Pre-MVP%20Project-blue)
+![Status](https://img.shields.io/badge/Status-PreMVP%20Project-blue)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933)
 ![AI](https://img.shields.io/badge/AI-LLM%20%7C%20OCR%20%7C%20RAG-success)
