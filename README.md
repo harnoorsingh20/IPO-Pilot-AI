@@ -200,7 +200,7 @@ IPO Pilot AI follows a Human-in-the-Loop approach.
 
 # 📷 Screenshots
 
-> Screenshots will be added soon.
+
 
 ---
 
