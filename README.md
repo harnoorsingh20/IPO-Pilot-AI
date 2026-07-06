@@ -21,6 +21,10 @@ This project aims to reduce preparation time, improve document quality, and lowe
 
 # 💡 Solution
 
+<p align="center">
+  <img src="screenshots/Screenshot%202026-07-06%20215826.png" width="100%">
+</p>
+
 IPO Pilot AI assists SME founders by generating a structured draft IPO offer document using AI.
 
 The platform combines:
@@ -198,6 +202,10 @@ IPO Pilot AI follows a Human-in-the-Loop approach.
 
 ---
 # 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot%202026-07-06%20221647.png" width="100%">
+</p>
 
 <p align="center">
   <img src="screenshots/Screenshot%202026-07-06%20215826.png" width="100%">
